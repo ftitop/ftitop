@@ -38,17 +38,3 @@ I'm a finance and data enthusiast building projects at the intersection of **Pyt
 * Time series analysis
 * Clean project structure
 
----
-
-## How I like to build
-
-I care about projects that are:
-
-* Simple enough to maintain
-* Structured enough to grow
-* Clear enough for someone else to understand
-* Useful beyond the first version
-* Built with reproducibility in mind
-
-My goal is not just to write code that works, but to write code that I can trust, explain, and improve.
-
